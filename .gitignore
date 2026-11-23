@@ -1,0 +1,22 @@
+
+# =========================
+# Eclipse
+# =========================
+
+# Eclipse workspace metadata
+.metadata/
+
+# Eclipse generated files
+bin/
+
+# Eclipse temporary files
+.recommenders/
+.externalToolBuilders/
+RemoteSystemsTempFiles/
+
+# =========================
+# OS generated files
+# =========================
+
+.DS_Store
+Thumbs.db
