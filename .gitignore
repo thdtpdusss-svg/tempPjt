@@ -1,0 +1,35 @@
+
+# =====================================
+# Eclipse + Java Team Project
+# =====================================
+
+# Java 컴파일 결과물
+/bin/
+*.class
+
+# Eclipse 개인 환경 설정
+.settings/
+
+# 운영체제 임시 파일
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 로그 및 임시 파일
+*.log
+*.tmp
+*.bak
+*~
+
+# IDE 개인 설정
+.metadata/
+.idea/
+*.iml
+.vscode/
+
+# =====================================
+# GitHub에 공유할 파일
+# =====================================
+# src/          Java 소스 코드
+# .project      Eclipse 프로젝트 정보
+# .classpath    Eclipse 클래스 경로 정보
